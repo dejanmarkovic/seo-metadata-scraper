@@ -198,8 +198,8 @@ class WebsiteScraper:
 if __name__ == "__main__":
     # List of URLs to scrape
     urls_to_scrape = [
-        "https://hypestudio.org/blog/wordpress-seo-and-digital-marketing-strategies/",
-        "https://hypestudio.org/blog/future-of-work-embrace-ai-and-automation/",
+        "https://yoursite.com/",
+        "https://yoursite.com/",
     ]
 
     # Initialize and run scraper
