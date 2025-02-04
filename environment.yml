@@ -1,0 +1,13 @@
+name: seo-metadata-scraper
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - requests>=2.28.0
+  - beautifulsoup4>=4.11.0
+  - pandas>=1.4.0
+  - lxml>=4.9.0
+  - pip:
+    - urllib3>=1.26.0
